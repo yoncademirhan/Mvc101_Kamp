@@ -1,0 +1,12 @@
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Yonca\Desktop\Murat_Hoca_Projeler\MVC_Proje_Kampı\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
